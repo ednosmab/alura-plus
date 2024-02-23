@@ -12,9 +12,15 @@
 - ``VS Code``
 - ``Git``
 - ``Vercel``
+- ``Figma``
+
+## 🎨 Arte do projeto
+
+<p>https://www.figma.com/file/FZdS8j8Fs7G6FOslFk9DPr/Alura-Plus---Layout-(Copy)?type=design&node-id=1%3A77&mode=design&t=SHsAtY01hegHZ2fd-1</p>
 
 ## 🌎 Veja como ficou
 
+<p>Disponível através do link: https://alura-plus-sepia-ten.vercel.app/</p>
 
 <hr>
 
