@@ -107,3 +107,27 @@ li{
     font-size: 32px;
     margin-top: 16px;
 }
+
+.rodape{
+    text-align: center;
+    margin: 13em 0;
+}
+.rodape__lista{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+.rodape__lista li{
+    margin: 0 0.6em;
+}
+.lista__link a{
+    text-decoration: none;
+    color: var(--branco-principal);
+}
+.lista__link a:hover{
+    color: var(--cinza-secundario);
+}
+.rodape__texto{
+    margin: 2em 3em 0 3em;
+    color: var(--cinza-secundario);
+}
