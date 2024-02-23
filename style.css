@@ -115,7 +115,7 @@ li{
 
 .rodape{
     text-align: center;
-    margin: 13em 0;
+    margin: 13em 0 2.5em 0;
 }
 .rodape__lista{
     display: flex;
